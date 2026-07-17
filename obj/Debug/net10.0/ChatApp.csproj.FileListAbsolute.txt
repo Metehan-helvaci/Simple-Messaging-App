@@ -1,0 +1,8 @@
+/Users/metehan/Desktop/StajProjesi1/ChatApp/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/metehan/Desktop/StajProjesi1/ChatApp/obj/Debug/net10.0/ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/metehan/Desktop/StajProjesi1/ChatApp/obj/Debug/net10.0/ChatApp.AssemblyInfoInputs.cache
+/Users/metehan/Desktop/StajProjesi1/ChatApp/obj/Debug/net10.0/ChatApp.AssemblyInfo.cs
+/Users/metehan/Desktop/StajProjesi1/ChatApp/obj/Debug/net10.0/ChatApp.csproj.CoreCompileInputs.cache
+/Users/metehan/Desktop/StajProjesi1/ChatApp/obj/Debug/net10.0/ChatApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/metehan/Desktop/StajProjesi1/ChatApp/obj/Debug/net10.0/ChatApp.csproj.AssemblyReference.cache
+/Users/metehan/Desktop/StajProjesi1/ChatApp/obj/Debug/net10.0/ChatApp.MvcApplicationPartsAssemblyInfo.cs
